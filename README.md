@@ -1,4 +1,4 @@
-# moving
+# daniel
 
 [![Gem Version](https://badge.fury.io/rb/moving.svg)](https://badge.fury.io/rb/moving) [![Build Status](https://travis-ci.org/huangyz0918/moving.svg?branch=master)](https://travis-ci.org/huangyz0918/moving) ![progress](https://img.shields.io/badge/progress-releasing-blue.svg) 
 
