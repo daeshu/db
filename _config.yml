@@ -1,9 +1,9 @@
-title: Moving # The title of the blog
-author: Your Name # Your name 
-email: your-email@domain.com # your email shown in the footer
-url: http://huangyz.name/moving/ # this is your site's root address.
+title: Las apariencias de una ilusión # The title of the blog
+author: Daniel # Your name 
+email: daniel@escobar.eu.org # your email shown in the footer
+url: https://daeshu.github.io/db/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
-  A clean and minimalist theme for Jekyll.
+  Apuntes personales.
 favicon: "./favicon.ico" # set the favicon of the site 
 
 show_excerpts: false # set to true to show excerpts on the homepage
